@@ -1,0 +1,9 @@
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\bin\Debug\XmlForExcel.exe.config
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\bin\Debug\XmlForExcel.exe
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\bin\Debug\XmlForExcel.pdb
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\obj\Debug\XmlForExcel.csprojAssemblyReference.cache
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\obj\Debug\XmlForExcel.frmMigrarXmlExcel.resources
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\obj\Debug\XmlForExcel.Properties.Resources.resources
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\obj\Debug\XmlForExcel.csproj.GenerateResource.cache
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\obj\Debug\XmlForExcel.exe
+C:\Desenvolvimento\XmlForExcel\XmlForExcel\obj\Debug\XmlForExcel.pdb
